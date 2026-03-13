@@ -1,3 +1,5 @@
+Editing info.txt will show on the toolkit banner. 
+
 Formatting:
 
 INFO: Reminder — submit timesheets by 5pm Friday
